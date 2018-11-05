@@ -1,5 +1,5 @@
 # This is to demo Magit!
 
-I'm in a demo.
+This is code quality!
 
 It's lots of fun, and easy to use.
