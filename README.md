@@ -1,3 +1,5 @@
 # This is to demo Magit!
 
-It's lots of fun, and easy to use
+I'm in a demo.
+
+It's lots of fun, and easy to use.
